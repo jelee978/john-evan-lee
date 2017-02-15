@@ -1,2 +1,2 @@
 # john-evan-lee
-personal website
+personal websit
